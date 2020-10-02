@@ -1,4 +1,4 @@
-# GeekNews
+# Geek News
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -137,7 +137,7 @@ GeekNews, A pure reading App based on Material Design + MVP + RxJava2 + Retrofit
 
 * [Fragmentation](https://github.com/YoKeyword/Fragmentation)
 
-#### LOG
+#### LOG Amazing
 
 * [Logger](https://github.com/orhanobut/logger)
 
